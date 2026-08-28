@@ -1,5 +1,7 @@
 ## Unreleased
 
+- fix(chart): fix invalid yaml syntax in statefulset definition
+
 ## 0.29.3
 
 - fix: ConcurrencyPolicy for snapshot-agent's CronJob
